@@ -1,4 +1,4 @@
-(https://i.ibb.co/2YHZMcM/sb-admin-2-high.jpg)
+![sb-admin-2](https://i.ibb.co/2YHZMcM/sb-admin-2-high.jpg)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
