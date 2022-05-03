@@ -1,4 +1,4 @@
-[img]https://i.ibb.co/2YHZMcM/sb-admin-2-high.jpg[/img]
+<a href="https://ibb.co/CsDP9V9"><img src="https://i.ibb.co/CsDP9V9/sb-admin-2-high.jpg" alt="sb-admin-2-high" border="0" /></a>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
