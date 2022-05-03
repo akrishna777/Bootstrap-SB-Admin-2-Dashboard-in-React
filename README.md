@@ -1,4 +1,10 @@
 ![sb-admin-2](https://i.ibb.co/2YHZMcM/sb-admin-2-high.jpg)
+## Just a copy of Bootstrap's SB Admin 2 Dashboard Product Version 4.1.4
+
+## Introduction
+This application has been created with the help of react only with static content for data. All the components are reusable and begginner level react concepts have been applied. The libraries required for creating the app in react can be found in package.json file. The Application is fully-responsive. 
+For the original Non-React bootstrap sb admin 2 dashboard follow this link : https://startbootstrap.com/previews/sb-admin-2
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
