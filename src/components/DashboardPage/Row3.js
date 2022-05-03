@@ -1,6 +1,6 @@
 import React from 'react'
-import ColorCard from '../ComponentsPage/Cards/ColorCard'
-import ProgressCard from '../ComponentsPage/Cards/ProgressCard'
+import ColorCard from '../ComponentsPage/CardsPage/ColorCard'
+import ProgressCard from '../ComponentsPage/CardsPage/ProgressCard'
 
 const Row3 = () => {
   const ProgressData = [
